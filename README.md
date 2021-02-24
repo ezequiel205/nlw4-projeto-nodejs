@@ -11,7 +11,7 @@
 <h1 align="center">API em NodeJS</h1>
 
 <!-- Descrição do Projeto -->
-<p align = "center"> API - Semana NLW4 da Rocketseat </p>
+<p align = "center"> API densenvolvida na Semana NLW4 da Rocketseat </p>
 
 <h4 align="center"> 
 	🚧 API em NodeJS 🚀 Em construção...🚧
@@ -38,7 +38,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 # Clone este repositório
 $ git clone <https://github.com/ezequiel205/nlw4-projeto-nodejs.git>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Acesse a pasta do projeto no terminal/VSCode
 $ cd nlw4-projeto-nodejs
 
 # Instale as dependências
