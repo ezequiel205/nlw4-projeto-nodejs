@@ -4,4 +4,8 @@
 <h1 align="center">API em Nodejs</h1>
 
 <!-- Descrição do Projeto -->
-<p align = "center"> API em desenvolvimento - Semana NLW4 da Rocketseat </p>
+<p align = "center"> API - Semana NLW4 da Rocketseat </p>
+
+<h4 align="center"> 
+	🚧 React Select 🚀 Em construção...🚧
+</h4>
