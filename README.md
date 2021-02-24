@@ -1,3 +1,5 @@
+
+<img src="https://img.shields.io/github/stars/ezequiel205/nlw4-projeto-nodejs"/>
 <!-- Nome do Projeto -->
 <h1 align="center">API em Nodejs</h1>
 
