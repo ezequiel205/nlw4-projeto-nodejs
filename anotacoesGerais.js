@@ -14,5 +14,7 @@
 //   }
 // // start server
 // yarn dev
+
 // Extensão: Material Icon Theme + Git Graph + Dracula + Extensão no Google Chrome Json View
+// ORM's citados: https://node-postgres.com/features/connecting - http://knexjs.org - https://typeorm.io/#/
 
