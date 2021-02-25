@@ -5,7 +5,6 @@ import { addListener } from 'process';
 import { router } from './routes';
 
 
-
 const app = express();
 app.use(express.json());
 
