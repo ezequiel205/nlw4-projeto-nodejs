@@ -3,7 +3,7 @@
 	
 <img src="https://img.shields.io/github/stars/ezequiel205/nlw4-projeto-nodejs" />
 <img src="https://img.shields.io/github/forks/ezequiel205/nlw4-projeto-nodejs" /> 
-<img src="https://img.shields.io/github/issues/ezequiel205/nlw4-projeto-nodejs" /> 
+<!-- <img src="https://img.shields.io/github/issues/ezequiel205/nlw4-projeto-nodejs" /> -->
 	
 </p>
 
