@@ -15,6 +15,6 @@
 // // start server
 // yarn dev
 
-// Extensão: Material Icon Theme + Git Graph + Dracula + Extensão no Google Chrome Json View
+// Extensão: Material Icon Theme + Git Graph + Dracula + Extensão no Google Chrome Json View + Bracket Pair Colorizer + Prettier (Style Guide)
 // ORM's citados: https://node-postgres.com/features/connecting - http://knexjs.org - https://typeorm.io/#/
 
