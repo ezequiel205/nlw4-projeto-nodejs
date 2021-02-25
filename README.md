@@ -22,9 +22,10 @@
 - [x] Instalação das ferramentas necessárias
 - [x] Criação de métodos GET e POST
 - [x] Criar rota funcional (localmente)
-- [ ] Trabalhar com TYPEORM
+- [x] Trabalhar com TYPEORM
+- [x] Conexão com o Banco de Dados
+- [ ] Aplicar melhorias no código
 - [ ] Estilização do código
-- [ ] Conexão com o Banco de Dados
 
 ### Pré-requisitos
 
