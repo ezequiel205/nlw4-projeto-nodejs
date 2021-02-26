@@ -31,9 +31,10 @@
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Postman](https://www.postman.com/) e [Yarn](https://yarnpkg.com/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+- Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Node.js](https://nodejs.org/en/) + [NPM](https://www.npmjs.com/get-npm),  [Yarn](https://yarnpkg.com/), [VSCode](https://code.visualstudio.com/) e configurações.
+- Além disto é bom ter um testador de API's para trabalhar com o código como [Postman](https://www.postman.com/) e um versionador de código como o [Git](https://git-scm.com)
+- Bônus: No seu navegador Google Chrome instale a Json Viewer e nas opções dela altere o tema para "Dracula". Sua página localhost ficará irada 🤘
 
 ### 🎲 Rodando o Back End (servidor)
 
@@ -45,10 +46,10 @@ $ git clone <https://github.com/ezequiel205/nlw4-projeto-nodejs.git>
 $ cd nlw4-projeto-nodejs
 
 # Instale as dependências
-$ npm install
+$ npm i
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará na porta:3333 - Acesse <http://localhost:3333> no seu navegador
 ```
