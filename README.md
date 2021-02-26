@@ -22,10 +22,12 @@
 - [x] Instalação das ferramentas necessárias
 - [x] Criação de métodos GET e POST
 - [x] Criar rota funcional (localmente)
-- [x] Trabalhar com TYPEORM
+- [x] Trabalhar com TypeORM + TypeScript
 - [x] Conexão com o Banco de Dados (SQLite)
+- [x] Criacao de novas rotas e repositorios
 - [ ] Aplicar melhorias no código
 - [ ] Estilização do código
+- [ ] Finalização do Códio (Por enquanto. haha! ^.^)
 
 ### Pré-requisitos
 
