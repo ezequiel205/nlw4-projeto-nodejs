@@ -23,7 +23,7 @@
 - [x] Criação de métodos GET e POST
 - [x] Criar rota funcional (localmente)
 - [x] Trabalhar com TYPEORM
-- [x] Conexão com o Banco de Dados
+- [x] Conexão com o Banco de Dados (SQLite)
 - [ ] Aplicar melhorias no código
 - [ ] Estilização do código
 
