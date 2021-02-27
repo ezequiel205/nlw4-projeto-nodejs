@@ -11,9 +11,6 @@ router.post("/users", userController.create);
 
 // ALT + SHIFT + SETA PRA BAIXO PARA DUPLICAR LINHA
 router.get("/surveys", surveysController.show);
-
-
-
 router.post("/surveys", surveysController.create);
 
 export { router };

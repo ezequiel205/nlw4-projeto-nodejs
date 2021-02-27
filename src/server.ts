@@ -1,14 +1,6 @@
-import 'reflect-metadata'
-import express from 'express';
-import "./database";
-import { addListener } from 'process';
-import { router } from './routes';
+import { app } from "./app";
+app.listen(3333, () => console.log("Server is running!")); // Porta: 3333
 
-
-const app = express();
-app.use(express.json());
-
-app.use(router);
 
 // /**
 //  * GET => Busca
@@ -33,7 +25,3 @@ app.use(router);
 //     // Recebeu os dados para salvar
 //     return response.json({message: "Os dados foram salvos com sucesso!"})
 // })
-
-
-app.listen(3333, () => console.log("Server is running!")); // Porta: 3333
-
