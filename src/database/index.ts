@@ -7,9 +7,7 @@ export default async (): Promise<Connection> => {
     return createConnection(
         Object.assign(defaultOptions, {
             database:
-                process.env.NODE_ENV === 'test'
-                    ? "./src/ddatabase/database.test.sqlite"
-                    : defaultOptions.database,
+                process.env.NODE_ENV === 'test' ? "./src/database/database.test.sqlite":defaultOptions.database,
         })
     );
 };

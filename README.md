@@ -24,10 +24,11 @@
 - [x] Criar rota funcional (localmente)
 - [x] Trabalhar com TypeORM + TypeScript
 - [x] Conexão com o Banco de Dados (SQLite)
-- [x] Criacao de novas rotas e repositorios
-- [ ] Aplicar melhorias no código
+- [x] Criacao de novas rotas, repositorios e controllers
+- [x] Criação do serviço de email utilizando o Etherial Mail
+- [x] Aplicar melhorias no código
 - [ ] Estilização do código
-- [ ] Finalização do Códio (Por enquanto. haha! ^.^)
+- [ ] Finalização e ultimos retoques na API (Por enquanto. haha! ^.^)
 
 ### Pré-requisitos
 
